@@ -1,0 +1,5 @@
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTSecretKeyEndpointTest.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTFinalEndpointTest.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/TokenTest.java

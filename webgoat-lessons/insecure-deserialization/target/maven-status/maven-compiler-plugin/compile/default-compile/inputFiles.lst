@@ -1,0 +1,4 @@
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webgoat-lessons/insecure-deserialization/src/main/java/org/owasp/webgoat/deserialization/SerializationHelper.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webgoat-lessons/insecure-deserialization/src/main/java/org/dummy/insecure/framework/VulnerableTaskHolder.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webgoat-lessons/insecure-deserialization/src/main/java/org/owasp/webgoat/deserialization/InsecureDeserialization.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webgoat-lessons/insecure-deserialization/src/main/java/org/owasp/webgoat/deserialization/InsecureDeserializationTask.java

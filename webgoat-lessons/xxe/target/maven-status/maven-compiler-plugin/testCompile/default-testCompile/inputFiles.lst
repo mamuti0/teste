@@ -1,0 +1,3 @@
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/SimpleXXETest.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/ContentTypeAssignmentTest.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/BlindSendFileAssignmentTest.java

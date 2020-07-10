@@ -1,0 +1,4 @@
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadRetrievalTest.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadRemoveUserInputTest.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadFixTest.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadTest.java

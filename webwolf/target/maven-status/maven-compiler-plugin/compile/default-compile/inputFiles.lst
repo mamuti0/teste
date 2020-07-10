@@ -1,0 +1,16 @@
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/main/java/org/owasp/webwolf/requests/WebWolfTraceRepository.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/main/java/org/owasp/webwolf/user/UserRepository.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/main/java/org/owasp/webwolf/mailbox/MailboxRepository.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/main/java/org/owasp/webwolf/FileServer.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/main/java/org/owasp/webwolf/MvcConfiguration.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/main/java/org/owasp/webwolf/user/UserForm.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/main/java/org/owasp/webwolf/user/UserService.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/main/java/org/owasp/webwolf/mailbox/MailboxController.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/main/java/org/owasp/webwolf/user/RegistrationController.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/main/java/org/owasp/webwolf/WebWolf.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/main/java/org/owasp/webwolf/WebSecurityConfig.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/main/java/org/owasp/webwolf/requests/Requests.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/main/java/org/owasp/webwolf/mailbox/Email.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/main/java/org/owasp/webwolf/user/WebGoatUser.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/main/java/org/owasp/webwolf/user/UserValidator.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/main/java/org/owasp/webwolf/requests/LandingPage.java

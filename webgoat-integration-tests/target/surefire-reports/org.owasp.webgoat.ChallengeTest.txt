@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: org.owasp.webgoat.ChallengeTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.112 s <<< FAILURE! - in org.owasp.webgoat.ChallengeTest
+org.owasp.webgoat.ChallengeTest.testChallenge1  Time elapsed: 0.044 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+No cookies defined in the response
+
+
+org.owasp.webgoat.ChallengeTest.testChallenge5  Time elapsed: 0.066 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+No cookies defined in the response
+
+

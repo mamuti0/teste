@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: org.owasp.webgoat.SqlInjectionAdvancedTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.722 s <<< FAILURE! - in org.owasp.webgoat.SqlInjectionAdvancedTest
+org.owasp.webgoat.SqlInjectionAdvancedTest.runTests  Time elapsed: 1.716 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+No cookies defined in the response
+
+

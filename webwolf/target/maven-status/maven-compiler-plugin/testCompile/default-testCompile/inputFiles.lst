@@ -1,0 +1,4 @@
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/test/java/org/owasp/webwolf/mailbox/MailboxControllerTest.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/test/java/org/owasp/webwolf/user/UserServiceTest.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/test/java/org/owasp/webwolf/user/UserValidatorTest.java
+/var/lib/jenkins/workspace/Segunda-Pipeline/WebGoat/webwolf/src/test/java/org/owasp/webwolf/mailbox/MailboxRepositoryTest.java
